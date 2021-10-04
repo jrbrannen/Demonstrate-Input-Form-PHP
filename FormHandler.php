@@ -59,7 +59,7 @@
 
         <h2 class="text-center">UNIT 5 - Lesson 2 Server Side Forms</h2>
 
-        <p class="text-center">This is an example php form response ouput that demonstrates how a form connects to a server side process.</p>
+        <p class="text-center">This is an example php form response output that demonstrates how a form connects to a server side process.</p>
         
         <div class= "jumbotron col-md-4 mx-auto border border-dark rounded-lg m-4 p-4" style="background-color:lightblue">
             
